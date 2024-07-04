@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jasa Pengiriman Andi</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="logo.png">
+</head>
+<body>
+    <div class="bg"></div>
+    <div class="container">
+        <h1>Jasa Pengiriman Andi</h1>
+        <form id="form" method="post" action="cetak.php" class="form-center">
+            <label for="pengirim">Nama Pengirim:</label>
+            <input type="text" id="pengirim" name="pengirim" required>
+            
+            <label for="berat">Berat Barang (kg):</label>
+            <input type="number" id="berat" name="berat" required>
+            
+            <label for="asal">Kota Asal:</label>
+            <input type="text" id="asal" name="asal" required>
+            
+            <label for="tujuan">Kota Tujuan:</label>
+            <input type="text" id="tujuan" name="tujuan" required>
+            
+            <label for="jarak">Jarak (km):</label>
+            <input type="number" id="jarak" name="jarak" required>
+
+            <a href="history.php" class="history-button">Riwayat Pengiriman</a>
+            <button type="submit">Hitung Biaya Pengiriman</button>
+        
+        </form>
+        
+        <div id="result"></div>
+        
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

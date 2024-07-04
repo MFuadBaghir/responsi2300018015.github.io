@@ -1,0 +1,42 @@
+Nama Pengirim : Ajeng Aura
+Berat Barang : 1000 kg
+Lokasi Asal : Tegal
+Lokasi Tujuan : Jogja
+Jarak : 70 km
+Total Harga : Rp. 1050000
+
+Nama Pengirim : Muhammad Fuad
+Berat Barang : 4 kg
+Lokasi Asal : Solo
+Lokasi Tujuan : Jakarta
+Jarak : 5 km
+Total Harga : Rp. 75000
+
+Nama Pengirim : Harits
+Berat Barang : 69 kg
+Lokasi Asal : Ngawi
+Lokasi Tujuan : Bogor
+Jarak : 690 km
+Total Harga : Rp. 10350000
+
+Nama Pengirim : Muhammad Fuad
+Berat Barang : 2 kg
+Lokasi Asal : 3214
+Lokasi Tujuan : 421
+Jarak : 412 km
+Total Harga : Rp. 6180000
+
+Nama Pengirim : Muhammad Fuad
+Berat Barang : 4 kg
+Lokasi Asal : Solo
+Lokasi Tujuan : Jakarta
+Jarak : 2 km
+Total Harga : Rp. 30000
+
+Nama Pengirim : Aji
+Berat Barang : 56 kg
+Lokasi Asal : Aceh
+Lokasi Tujuan : Bali
+Jarak : 5421 km
+Total Harga : Rp. 81315000
+
